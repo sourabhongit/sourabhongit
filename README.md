@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![ezgif com-crop](https://github.com/sourabhongit/sourabhongit/assets/53874233/eb836626-529d-4acb-b9bb-2e42b2e6ffc9)
 
-<h3 align="center">A passionate MERN and a Web Developer</h3>
+<h3 align="center">A passionate Web and Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhongit&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhongit" /> </p>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **Web Development, MERN Stack, Programming**
+- 💬 Ask me about **Web Development, Programming**
 
 - 📫 How to reach me **get.sourabhdas@gmail.com**
 
