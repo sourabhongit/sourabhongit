@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![ezgif com-crop](https://github.com/sourabhongit/sourabhongit/assets/53874233/eb836626-529d-4acb-b9bb-2e42b2e6ffc9)
 
-<h3 align="center">A passionate Web and Software Developer</h3>
+<h3 align="center">🌟 "In the World of Bits and Bytes, Code Composer by Day, Picasso by Night, Part Engineer, Part Dreamer, Full-Time Creator!" 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhongit&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhongit" /> </p>
 
@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhongit&show_icons=true&locale=en" alt="sourabhongit" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Ecom Website]()
-
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Web Development, Programming**
-
-- 📫 How to reach me **get.sourabhdas@gmail.com**
+- 💬 **Ask me about**
+  - 💻 Web/Software Development
+  - 👩‍💻 Programming
+  - ✨ Anime
 
 ![web-development-company-in-kochi](https://github.com/sourabhongit/sourabhongit/assets/53874233/15d7774c-80a0-45cd-8ee5-e77fddc3862c)
 
