@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sourabhongit/sourabhongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://rahuldkjain.github.io/gh-profile-readme-generator/
@@ -15,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ezgif com-crop](https://github.com/sourabhongit/sourabhongit/assets/53874233/eb836626-529d-4acb-b9bb-2e42b2e6ffc9)
-
-<h3 align="center">🌟 "In the World of Bits and Bytes, Code Composer by Day, Picasso by Night, Part Engineer, Part Dreamer, Full-Time Creator!" 🌟</h3>
+<h3 align="center">Hi there 👋</h3>
+<h3 align="center">🌟 "In the World of Bits and Bytes" 🌟</h3>
+<h3 align="center">🌟 "Code Composer by Day" 🌟</h3>
+<h3 align="center">🌟 "Picasso by Night" 🌟</h3>
+<h3 align="center">🌟 "Part Engineer" 🌟</h3>
+<h3 align="center">🌟 "Part Dreamer" 🌟</h3>
+<h3 align="center">🌟 "Full-Time Creator" 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhongit&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhongit" /> </p>
 
