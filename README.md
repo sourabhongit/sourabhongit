@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 **Ask me about**
-  - 💻 Web/Software Development
+  - 🚆 Travel
   - 👩‍💻 Programming
   - ✨ Anime
 
