@@ -58,5 +58,3 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhongit&show_icons=true&locale=en&layout=compact" alt="sourabhongit" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhongit&" alt="sourabhongit" /></p>
-
-<p><img align="center" src="https://github.com/sourabhongit/sourabhongit/assets/53874233/c3005237-da2d-4464-9796-a6eb28bf06ba" alt="sourabhongit" /></p>
