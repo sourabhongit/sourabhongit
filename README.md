@@ -32,8 +32,6 @@ Here are some ideas to get you started:
   - 👩‍💻 Programming
   - ✨ Anime
 
-![web-development-company-in-kochi](https://github.com/sourabhongit/sourabhongit/assets/53874233/15d7774c-80a0-45cd-8ee5-e77fddc3862c)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/exampleuser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="exampleuser" height="30" width="40" /></a>
